@@ -53,3 +53,24 @@ nav span {
   display: inline-block;
   padding: 20px 10px;
 }
+
+/* main section */
+
+.main {
+  padding-top: 69px;
+  width: 1200px;
+  margin: auto;
+}
+
+/* mission section */
+
+#mission {
+  height: 700px;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+}
+
+#mission .content {
+  margin: auto;
+  background-color: black;
+  width: 100%;
+}
